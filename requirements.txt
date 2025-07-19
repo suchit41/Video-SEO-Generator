@@ -1,0 +1,10 @@
+streamlit
+openai
+langchain
+pytube
+moviepy
+python-dotenv
+Pillow
+tqdm
+langchain-community
+groq
